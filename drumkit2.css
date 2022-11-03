@@ -1,0 +1,16 @@
+.drumkit{
+    height: 100vh;
+    display:flex;
+align-items: center;
+justify-content: center;
+background-color: rgb(62, 105, 105);
+
+}
+
+.drum{
+    padding: 10px,30px;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
